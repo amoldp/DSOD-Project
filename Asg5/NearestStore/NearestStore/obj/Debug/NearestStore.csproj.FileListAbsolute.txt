@@ -1,0 +1,5 @@
+C:\Users\Nicolette\Documents\Visual Studio 2013\Projects\NearestStore\NearestStore\bin\NearestStore.dll.config
+C:\Users\Nicolette\Documents\Visual Studio 2013\Projects\NearestStore\NearestStore\bin\NearestStore.dll
+C:\Users\Nicolette\Documents\Visual Studio 2013\Projects\NearestStore\NearestStore\bin\NearestStore.pdb
+C:\Users\Nicolette\Documents\Visual Studio 2013\Projects\NearestStore\NearestStore\obj\Debug\NearestStore.dll
+C:\Users\Nicolette\Documents\Visual Studio 2013\Projects\NearestStore\NearestStore\obj\Debug\NearestStore.pdb

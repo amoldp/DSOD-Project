@@ -1,0 +1,63 @@
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Asg5.dll.config
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Asg5.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Asg5.pdb
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.AspNet.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.Core.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\EntityFramework.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\System.Web.Providers.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\System.Net.Http.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\EntityFramework.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.Core.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\DotNetOpenAuth.AspNet.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\System.Net.Http.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\obj\Debug\Asg5.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\obj\Debug\Asg5.pdb
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Newtonsoft.Json.dll
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\bin\Newtonsoft.Json.xml
+c:\users\nicolette\documents\visual studio 2013\Projects\Asg5\Asg5\obj\Debug\Asg5.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Asg5.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Asg5.pdb
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\AspNet.ScriptManager.jQuery.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.AspNet.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.Core.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\System.Net.Http.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.Core.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\DotNetOpenAuth.AspNet.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\bin\System.Net.Http.xml
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\obj\Debug\Asg5.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\obj\Debug\Asg5.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\Asg5\obj\Debug\Asg5.pdb

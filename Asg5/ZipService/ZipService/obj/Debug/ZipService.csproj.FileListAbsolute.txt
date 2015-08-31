@@ -1,0 +1,5 @@
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\ZipService\bin\ZipService.dll.config
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\ZipService\bin\ZipService.dll
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\ZipService\bin\ZipService.pdb
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\ZipService\obj\Debug\ZipService.dll
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\ZipService\obj\Debug\ZipService.pdb

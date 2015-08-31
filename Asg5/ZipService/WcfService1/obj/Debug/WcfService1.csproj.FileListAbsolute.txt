@@ -1,0 +1,5 @@
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\WcfService1\bin\WcfService1.dll.config
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\WcfService1\bin\WcfService1.dll
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\WcfService1\bin\WcfService1.pdb
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Nicolette\documents\visual studio 2013\Projects\ZipService\WcfService1\obj\Debug\WcfService1.pdb

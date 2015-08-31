@@ -1,0 +1,10 @@
+c:\Users\nicolette\documents\visual studio 2013\Projects\Asg5\WeatherS\bin\WeatherS.dll.config
+c:\Users\nicolette\documents\visual studio 2013\Projects\Asg5\WeatherS\bin\WeatherS.dll
+c:\Users\nicolette\documents\visual studio 2013\Projects\Asg5\WeatherS\bin\WeatherS.pdb
+c:\Users\nicolette\documents\visual studio 2013\Projects\Asg5\WeatherS\obj\Debug\WeatherS.dll
+c:\Users\nicolette\documents\visual studio 2013\Projects\Asg5\WeatherS\obj\Debug\WeatherS.pdb
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\WeatherS\bin\WeatherS.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\WeatherS\bin\WeatherS.pdb
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\WeatherS\obj\Debug\WeatherS.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\WeatherS\obj\Debug\WeatherS.dll
+\\vmware-host\Shared Folders\Downloads\Asg5\Asg5\WeatherS\obj\Debug\WeatherS.pdb

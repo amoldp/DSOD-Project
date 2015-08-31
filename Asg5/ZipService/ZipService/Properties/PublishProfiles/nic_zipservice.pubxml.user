@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZsnMGk4PKUGmpOSSCvMaPAAAAAACAAAAAAAQZgAAAAEAACAAAAC/IMhv0hYGaapJRVdT1bE/NUP2z5LA5nasI6dXWDCfbgAAAAAOgAAAAAIAACAAAAC6Wqo6MG9NojRcShq3yBBrVeYzqFU0YJN5M87HC0l6ABAAAADEEoqlxavmpx4yYs+bGq43QAAAAC7kr0fO5QlD4AgdaGesZiJ5VcBK3CbZynX7e9R4H7aMzFsRBN8I1hv1aEYQJ12Rr/VpAAlfqnJTzd41177QPGo=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.11.139:10034</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ZipService.dll">
+      <publishTime>11/10/2014 18:53:52</publishTime>
+    </File>
+    <File Include="bin/ZipService.pdb">
+      <publishTime>11/10/2014 18:53:52</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/10/2014 18:53:53</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Xml.XmlNode.datasource">
+      <publishTime>11/08/2014 19:02:14</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/ZipService.ServiceReference1.Address.datasource">
+      <publishTime>11/09/2014 23:29:28</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference2/ZipService.ServiceReference2.Address.datasource">
+      <publishTime>11/10/2014 18:40:09</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>11/09/2014 20:36:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/10/2014 18:49:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
